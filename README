@@ -1,0 +1,3 @@
+Arduino sketch to make a bidirectional serial data link between two computers using the Nordic NRF24L01+ based sparkfun module.
+
+
